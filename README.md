@@ -23,3 +23,7 @@ Great for quick point-to-point tunnels, testing, lab environments, bypassing som
 
 ## Installation
 
+```bash
+
+bash <(curl -Ls --ipv4 https://raw.githubusercontent.com/sadewgh/GRE-Tunnel-Auto-Setup/main/Gre.sh)
+
